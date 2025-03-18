@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Enniehola
-- 👀 I’m interested in Data Analysis, Cybersecurity, networking with people, learning and having a mentor in the Data Analytics field :).
+- 👀 I’m interested in Data Analytics, Cybersecurity, networking with people, learning and having a mentor in the Data Analytics field :).
 - 🌱 I’m currently learning SQL, Python and anything that will improve my analytic skills
 - 💞️ I’m looking to collaborate on anything analytics and ... some cybersecurity
 - 📫 How to reach me ...
